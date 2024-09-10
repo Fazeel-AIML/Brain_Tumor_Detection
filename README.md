@@ -22,6 +22,7 @@ The approach used in this project applies image processing techniques to detect 
 - Python 3.x
 - OpenCV (for image processing)
 - NumPy
+- Qtpy5
 
 You can install the required Python packages using:
 
@@ -29,4 +30,4 @@ You can install the required Python packages using:
 ![Model Working GIF](./Brain_Tumor/Tumor_Detection.gif)
 
 ```bash
-pip install opencv-python numpy
+pip install opencv-python numpy qtp5
