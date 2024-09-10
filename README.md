@@ -26,7 +26,7 @@ The approach used in this project applies image processing techniques to detect 
 You can install the required Python packages using:
 
 ## Sample Working GIF
-![Model Working GIF](./assets/model_working.gif)
+![Model Working GIF](./Brain_Tumor/Tumor_Detection.gif)
 
 ```bash
 pip install opencv-python numpy
